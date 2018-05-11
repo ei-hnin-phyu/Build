@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
             Console.WriteLine("Galaxy Wave");
-            Console.WriteLine("Welcome .......");
+           
             Console.Read ();
         }
     }
